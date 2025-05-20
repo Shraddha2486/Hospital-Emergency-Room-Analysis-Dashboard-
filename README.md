@@ -34,4 +34,6 @@ The dashboard includes key performance indicators (KPIs) and visualizations to m
 
 ---
 
+![Image](https://github.com/user-attachments/assets/b302fb35-6e6e-47a8-8540-e3824a3a3506)
+
 
